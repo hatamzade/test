@@ -1,0 +1,39 @@
+body{
+    background-color:#4b8e8d ;
+}
+.continer{
+    background-color:#f6c89f;
+    direction: rtl;
+    padding: 15px;
+    font-size: 22px;
+    margin: 50px 25%;
+    border-top:#396362 5px solid;
+}
+
+#quote{
+    text-align: center;
+    font-family: saeed;
+    padding: 0 20px;
+    line-height: 25px;
+}
+#speaker{
+    text-align: center;
+    font-family: saeed;
+    padding: 0 20px;
+    line-height: 25px;
+}
+.new{
+    background-color:#FAAB78 ;
+    padding: 0 30px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow:gray 1px 3px ;
+    float: left;
+
+
+}
+
+@font-face {
+    font-family:saeed ;
+    src: url(/font/Shabnam.ttf);
+}
